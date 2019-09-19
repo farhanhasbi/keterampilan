@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TugasKeterampilan</string>
+    <string name="check">Check</string>
+    <string name="buy">Buy</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="description">description</string>
+    <string name="nama">Rasa</string>
+    <string name="from">Merk</string>
+    <string name="with_cardview">With CardView</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string-array name="merk_array">
+        <item>Pop Ice Rasa Mangga</item>
+        <item>Pop Ice Rasa Permen Karet</item>
+        <item>Pop Ice Rasa Anggur</item>
+        <item>Pop Ice Rasa Vanilla Blue</item>
+        <item>Pop Ice Rasa moccacino</item>
+        <item>Pop Ice Rasa Durian</item>
+        <item>Pop Ice Rasa Taro</item>
+    </string-array>
+</resources>
